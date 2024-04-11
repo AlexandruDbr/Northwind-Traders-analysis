@@ -36,7 +36,7 @@ This PowerBI report project is developed for Northwind Traders, a global import 
     Net revenue = Gross revenue - discounts - shipping expenses
  
 
-### What is this dashboard answering?
+## What is this dashboard answering?
 
 Northwind Traders communicated that they would like to gain insights on the following topics:
 
