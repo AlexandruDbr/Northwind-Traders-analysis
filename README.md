@@ -4,19 +4,14 @@ This PowerBI report project is developed for Northwind Traders, a global import 
 
 ## Overview
 
-### Dataset:
+* TO WRITE WHAT DID YOU MODIFY IN THE DATASET.
+* TO WRITE KEY INSIGHTS
 
- There are 7 tables provided by the company and 2 tables created by myself. One of them is the date table, whose purpose is to free the data model memory by disabling the auto-date/time feature and to work smoothly with time series and the other is a blank table whose purpose is to centralise all the measures created.
 
- Northwind Trades table names:
+### Data set:
 
-    categories
-    customers
-    employees
-    order_details
-    orders
-    products
-    shippers
+ There are 7 csv files provided by the company and 2 tables created by myself. One is a date table, intended to free data model's memory by disabling the auto-date/time feature as well as to work smoothly with time series and the other is a blank table whose role is to centralise all the measures created.
+
  
   For detailed information related to the meaning of each column please consult the data_dictionary.csv file.
 
@@ -36,7 +31,7 @@ This PowerBI report project is developed for Northwind Traders, a global import 
     Net revenue = Gross revenue - discounts - shipping expenses
  
 
-## What is this dashboard answering?
+## Analysis starting point:
 
 Northwind Traders communicated that they would like to gain insights on the following topics:
 
@@ -70,14 +65,6 @@ To use this PowerBI dashboard, you will need:
 - Access to data source from PowerBI service containing relevant data.
 - Basic understanding of PowerBI to navigate and interact with the dashboard.
 
-## Getting Started
-
-To get started with the dashboard:
-
-1. Download and install Microsoft PowerBI Desktop if you haven't already.
-2. Open PowerBI Desktop.
-3. Open the provided .pbix file containing the dashboard.
-4. Explore the various tabs and visualizations to gain insights into company and team performance.
 
 ## Future posible enhancements
 
@@ -88,6 +75,6 @@ The dashboard is designed to evolve and accommodate new data over time. Some pot
 
 ## Feedback and Support
 
-Feedback on the dashboard is welcome and encouraged. If you encounter any issues or have suggestions for improvement, feel free to contact me.
+Feedback on the dashboard is welcome and encouraged. If you encounter any issues or have suggestions for improvement, feel free to contact me through Linkedin.
 
 
